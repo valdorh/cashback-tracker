@@ -1,0 +1,5 @@
+{
+  "name": "Cashback Tracker",
+  "description": "SPA для отслеживания ежемесячных категорий повышенного кэшбэка по разным банковским картам",
+  "requestFramePermissions": []
+}
